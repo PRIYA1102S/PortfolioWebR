@@ -39,7 +39,7 @@ const Skills = () => {
     });
 
     const skills = [
-        { name: "C", proficiency: 80, logoUrl: './c.png' },
+        { name: "C", proficiency: 80, logoUrl: './icons8-c-programming-48.png' },
         { name: "C++", proficiency: 80, logoUrl: './icons8-c++-48.png' },
         { name: "Java", proficiency: 70, logoUrl: './icons8-java-48.png' },
         { name: "MySQL", proficiency: 80, logoUrl: './sql.png' },
